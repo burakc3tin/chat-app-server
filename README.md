@@ -11,7 +11,7 @@ Express.js Socket.IO ve React (Vite) ile geliştirdiğim sohbet uygulaması.
 
 
 ### `Client`
-](https://github.com/burakc3tin/chat-app-client) 
+ [Chat Client](https://github.com/burakc3tin/chat-app-client) 
 
 ### `Ekran Görüntüleri`
 
